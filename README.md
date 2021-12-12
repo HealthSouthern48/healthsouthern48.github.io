@@ -1,6 +1,6 @@
+# Kwe'
+
 <center>
-  <h1>Kwe'</h1>
-  <br />
   Fun, engaging and interactive app for kids to learn the Mi'kmaq language.
 </center>
 
