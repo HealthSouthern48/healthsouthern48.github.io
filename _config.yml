@@ -3,5 +3,6 @@ title: Kwe'
 description: Fun, engaging and interactive app for kids to learn the Mi'kmaq language
 show_downloads: true
 github:
-  zip_url: https://git-scm.com/downloads
-  tar_url: https://renpy.org/latest.html
+  repo_url: https://github.com/HealthSouthern48/Kwe
+  site_url: https://ugdev.cs.smu.ca/~group15/
+  renpy_url: https://renpy.org/latest.html
