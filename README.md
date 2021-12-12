@@ -1,10 +1,4 @@
-# Kwe'
-
-<center>
-  Fun, engaging and interactive app for kids to learn the Mi'kmaq language.
-</center>
-
-## Installation Guide and Documentation
+# Installation Guide and Documentation
 
 ---
 
@@ -30,7 +24,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 ---
 
-### Installation and Updating
+## Installation and Updating
 
 1. Log in to the `group15` account on the `ugdev.cs.smu.ca` server
 
@@ -46,7 +40,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 ---
 
-### Run the App
+## Run the App
 
 1. Open a web browser (Safari, Edge, Firefox, etc.)
 
@@ -59,11 +53,11 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 ---
 
-### Change dialogue audio
+## Change dialogue audio
 
 *Prerequisites: [Ren'Py](https://renpy.org/), [git](https://git-scm.com/), Terminal (cmd.exe, iTerm, etc.), internet connection*
 
-#### Installing Ren'Py
+### Installing Ren'Py
 
 1. Open a web browser (Safari, Edge, Firefox, etc.)
 2. In the browser search bar, type or paste the following URL:
@@ -75,7 +69,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 - Done
 
-#### Steps to change the audio
+### Steps to change the audio
 
 1. Open the Terminal application
 2. Type or paste the following command:<br />
@@ -109,7 +103,7 @@ overwriting the existing files with the same name
 
 ---
 
-### Credits:
+## Credits:
 
 Background art: [Background vector created by vectorpouch - www.freepik.com](https://www.freepik.com/vectors/background)
 
