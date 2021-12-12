@@ -1,4 +1,4 @@
-# Installation Guide and Documentation
+## Installation Guide and Documentation
 
 ---
 
