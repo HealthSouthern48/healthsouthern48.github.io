@@ -4,21 +4,11 @@
   Fun, engaging and interactive app for kids to learn the Mi'kmaq language.
 </center>
 
-
-
-
-
 ---
-
-
 
 ## Installation Guide and Documentation
 
-
-
 ---
-
-<div style="page-break-after: always; break-after: page;"></div>
 
 **Software Engineering (CSCI-3428) Project for Fall 2021**
 
@@ -38,17 +28,9 @@ Sheikh Saad Abdullah
 
 
 
----
-
-
-
 The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev.cs.smu.ca/~group15/) for general use.
 
-
-
 ---
-
-<div style="page-break-after: always; break-after: page;"></div>
 
 ### Installation and Updating
 
@@ -64,11 +46,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 - Done
 
-
-
 ---
-
-
 
 ### Run the App
 
@@ -81,11 +59,7 @@ The website can be accessed at [https://ugdev.cs.smu.ca/~group15/](https://ugdev
 
 - Done
 
-
-
 ---
-
-<div style="page-break-after: always; break-after: page;"></div>
 
 ### Change dialogue audio
 
@@ -116,9 +90,6 @@ The line right before the dialogue will have a line right above it in the follow
 `voice "chapX_lineY.mp3"`<br />
 Where X is the chapter number and Y is the dialogue number. That is the name of the file that needs to be changed.
 7. Navigate to the `audio` folder inside the `game` folder inside the folder named `Kwe`
-
-<div style="page-break-after: always; break-after: page;"></div>
-
 8. Replace the file you wish to change with your desired audio file.<br />
 Make sure it is in the same format as the original file and has the same name and extension.
 9. Open Ren'Py and navigate to Preferences
@@ -138,31 +109,13 @@ overwriting the existing files with the same name
 
 - Done.
 
-
-
 ---
-
-
 
 ### Credits:
 
 Background art: [Background vector created by vectorpouch - www.freepik.com](https://www.freepik.com/vectors/background)
 
-
-
 ---
-
-
-<div style="page-break-after: always; break-after: page;"></div>
-
-
-
-
-
-
----
-
-
 
 ## END OF DOCUMENTATION
 
@@ -170,9 +123,3 @@ Background art: [Background vector created by vectorpouch - www.freepik.com](htt
   for <b>Kwe'</b><br />
   by Group 5
 </center>
-
-
-
-
----
-
