@@ -2,6 +2,8 @@
 
 Fun, engaging and interactive app for kids to learn the Mi'kmaq language.
 
+---
+
 **Software Engineering (CSCI-3428) Project for Fall 2021**<br /><br />
 at<br /><br />
 **Saint Mary's University, Halifax, NS, Canada**<br /><br />
@@ -11,6 +13,8 @@ Jacob White<br />
 Kyle Coleman-Sadd<br />
 Naziya Tasnim<br />
 Sheikh Saad Abdullah
+
+---
 
 Files to be put on the public server.
 
