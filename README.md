@@ -111,7 +111,7 @@ Background art: [Background vector created by vectorpouch - www.freepik.com](htt
 
 ## END OF DOCUMENTATION
 
-<center style="font-size: 1.5em">
+<p style="font-size: 1.5em">
   for <b>Kwe'</b><br />
   by Group 5
-</center>
+</p>
